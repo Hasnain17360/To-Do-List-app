@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
-console.log("\n***Welcome to List-E!***");
+console.log("\n***Welcome to List-e!***");
 let todos = [];
 let condition = true;
 function displayTasks() {
@@ -28,5 +28,5 @@ while (condition) {
     displayTasks();
 }
 if (!condition) {
-    console.log("\nThank you for using List-E!");
+    console.log("\nThank you for using List-e!");
 }

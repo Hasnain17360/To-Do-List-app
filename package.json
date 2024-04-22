@@ -1,6 +1,6 @@
 {
   "name": "@hasnain17/list-e-app",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "An app where day-to-day tasks can be stored/ edited",
   "main": "index.js",
   "type": "module",

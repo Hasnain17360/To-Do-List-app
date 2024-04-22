@@ -2,7 +2,7 @@
 
 import inquirer from "inquirer";
 
-console.log("\n***Welcome to List-E!***");
+console.log("\n***Welcome to List-e!***");
 
 let todos: string[] = [];
 let condition = true;
@@ -35,5 +35,5 @@ while (condition) {
 }
 
 if (!condition) {
-  console.log("\nThank you for using List-E!");
+  console.log("\nThank you for using List-e!");
 }
